@@ -16,6 +16,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-react-redux/ReduxSimpleStarter/config.js
-react-redux/ReduxSimpleStarter/bundle.js
-
+react-redux/weather/config.js
+react-redux/weather/bundle.js
+react-redux/faster-youtube/config.js
+react-redux/faster-youtube/bundle.js

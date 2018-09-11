@@ -1,0 +1,11 @@
+{
+  "users": [
+    { "id": "1", "firstName": "Tanya", "age": 20, "companyId": "2" },
+    { "id": "2", "firstName": "George", "age": 30, "companyId": "1" },
+    { "id": "3", "firstName": "Tina", "age": 40, "companyId": "2" }
+  ],
+  "companies": [
+    {"id": "1", "name": "Tesla", "description": "slowly making cars"},
+    {"id": "2", "name": "SpaceX", "description": "space agency"}
+  ]
+}
